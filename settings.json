@@ -1,0 +1,25 @@
+{
+  "theme": "pi-coder-ayu",
+  "hideThinkingBlock": true,
+  "defaultThinkingLevel": "xhigh",
+  "compaction": {
+    "enabled": true
+  },
+  "images": {
+    "autoResize": true,
+    "blockImages": false
+  },
+  "enableSkillCommands": true,
+  "transport": "auto",
+  "packages": [
+    "npm:pi-mcp-adapter",
+    "npm:pi-cyber-ui",
+    "npm:@bachi/pi-coder",
+    "npm:pi-web-access",
+    "npm:pi-subagents"
+  ],
+  "extensions": [
+    "-builtin:codemode",
+    "-builtin:mcp"
+  ]
+}
