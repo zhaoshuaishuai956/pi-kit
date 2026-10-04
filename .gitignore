@@ -12,6 +12,7 @@ extensions-disabled/
 pi-subagents/
 mcp-onboarding.json
 memory/
+.pi-kit-author
 
 # ---- secrets ----
 .env
