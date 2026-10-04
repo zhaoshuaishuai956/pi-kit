@@ -1,0 +1,6 @@
+{
+  "name": "pi-kit",
+  "repo": "https://github.com/zhaoshuaishuai956/pi-kit",
+  "description": "Portable Pi UI/theme kit — clone as PI_CODING_AGENT_DIR, auto-syncs on startup.",
+  "schemaVersion": 1
+}

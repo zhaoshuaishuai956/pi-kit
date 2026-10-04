@@ -1,0 +1,39 @@
+# ---- machine-local pi state (never commit) ----
+auth.json*
+models*.json
+commandcode-models.json
+trust.json
+crashes.json
+sessions/
+npm/
+bin/
+git/
+extensions-disabled/
+pi-subagents/
+mcp-onboarding.json
+
+# ---- secrets ----
+.env
+.env.*
+*.token
+credentials.*
+secrets/
+*.bak
+*.bak-*
+*.pem
+*.key
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# ---- runtime state (machine-local) ----
+rewind/
+missions/
+bg-tasks/
+web-search-cache/
+logs/
+*.log
