@@ -11,6 +11,7 @@ git/
 extensions-disabled/
 pi-subagents/
 mcp-onboarding.json
+memory/
 
 # ---- secrets ----
 .env
