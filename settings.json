@@ -15,7 +15,10 @@
     "npm:pi-mcp-adapter",
     "npm:pi-cyber-ui",
     "npm:@bachi/pi-coder",
-    "npm:pi-web-access",
+    {
+      "source": "npm:pi-web-access",
+      "extensions": []
+    },
     "npm:pi-subagents"
   ],
   "extensions": [
